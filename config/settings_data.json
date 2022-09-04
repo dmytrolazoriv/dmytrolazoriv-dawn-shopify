@@ -126,7 +126,6 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "custom_text": "New test text",
               "text_alignment": "center",
               "color_scheme": "background-1",
               "link": ""
